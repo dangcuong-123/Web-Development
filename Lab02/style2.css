@@ -1,0 +1,30 @@
+* {
+box-sizing: border-box;
+}
+
+html {
+font-family: 'Jost', sans-serif;
+}
+
+body {
+margin: 0;
+}
+
+.container > h1 {
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+margin: 3rem auto;
+border-radius: 10px;
+padding: 1rem;
+background-color: #4fc08d;
+color: white;
+}
+
+#form p {
+font-size: 1.25rem;
+font-weight: bold;
+border: 1px solid #4fc08d;
+background-color: #ccb925;
+color: white;
+padding: 0.5rem;
+border-radius: 25px;
+}
